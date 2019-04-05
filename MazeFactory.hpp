@@ -15,10 +15,6 @@
 class MazeFactory {
 public:
 
-    MazeFactory();
-
-    virtual ~MazeFactory();
-
     virtual Maze *make_maze() = 0;
 
     virtual Wall *make_wall() = 0;

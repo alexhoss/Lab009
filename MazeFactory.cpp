@@ -3,11 +3,3 @@
 //
 
 #include "MazeFactory.hpp"
-
-MazeFactory::MazeFactory() {
-
-}
-
-MazeFactory::~MazeFactory() {
-
-}
